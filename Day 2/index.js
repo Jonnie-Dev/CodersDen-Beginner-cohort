@@ -15,4 +15,9 @@ let task12 = challenge.replace("Javascript", "Python")
 console.log(challenge.lastIndexOf("a"))
 
 
-// console.log(task12);
+console.log(task12);
+
+
+
+
+
